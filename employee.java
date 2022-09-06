@@ -23,5 +23,5 @@ public class employee {
         System.out.println("Emp_Wage : "+ Emp_wage);
     }
 }
-    
+
 
